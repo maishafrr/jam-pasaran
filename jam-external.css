@@ -2,7 +2,7 @@
 body {
     background: radial-gradient(circle, #111, #000);
     color: #00ffaa;
-    font-family: 'Courier New', monospace;
+    font-family: 'Arial', sans-serif;
     text-align: center;
     height: 100vh;
     display: flex;
