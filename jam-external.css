@@ -1,7 +1,7 @@
 
 body {
     background: radial-gradient(circle, #111, #000);
-    color: #00ffaa;
+    color: #006eff;
     font-family: 'Arial', sans-serif;
     text-align: center;
     height: 100vh;
@@ -12,7 +12,7 @@ body {
 
 /* Kotak utama */
 .kotak-jam {
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(21, 86, 124, 0.7);
     padding: 30px 50px;
     border-radius: 15px;
     
