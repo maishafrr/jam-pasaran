@@ -10,7 +10,7 @@ body {
     align-items: center;
 }
 
-/* Kotak utama */
+
 .kotak-jam {
     background: rgba(21, 86, 124, 0.7);
     padding: 30px 50px;
@@ -19,7 +19,7 @@ body {
    
 }
 
-/* Tanggal */
+
 #tanggal {
     font-size: 22px;
     margin-bottom: 15px;
@@ -28,7 +28,7 @@ body {
    
 }
 
-/* Jam */
+
 #jam {
     font-size: 60px;
     font-weight: bold;
